@@ -1,4 +1,4 @@
-# Projeto Base - Tailwind CSS v4 CLI Autônoma
+# 🌐 Projeto Base - Tailwind CSS v4 CLI Autônoma
 
 Este projeto é um ponto de partida leve e funcional com **Tailwind CSS v4**, usando apenas a **CLI autônoma** (sem `npm`, sem `node_modules`, sem PostCSS).
 
